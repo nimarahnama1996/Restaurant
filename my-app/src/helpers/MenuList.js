@@ -7,7 +7,7 @@ import Expensive from "../assets/expensive.jpg";
 
 export const MenuList = [
   {
-    name: "Pepperoni Pizza",
+    name: "Manhattan Pizza",
     image: Pepperoni,
     price: 15.99,
   },
@@ -17,9 +17,9 @@ export const MenuList = [
     price: 11.99,
   },
   {
-    name: "PedroTech Special Pizza",
+    name: "Special Pizza",
     image: PedroTechSpecial,
-    price: 256.53,
+    price: 25.53,
   },
   {
     name: "Vegan Pizza",
@@ -29,11 +29,11 @@ export const MenuList = [
   {
     name: "Pineapple Pizza",
     image: Pineapple,
-    price: 4.99,
+    price: 14.99,
   },
   {
     name: "Very Expensive Pizza",
     image: Expensive,
-    price: 1997.99,
+    price: 17.99,
   },
 ];
